@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails autoloop-blue-team-for-the-win: test" uuid="dd9f914e-9247-4a5b-aaa7-62a8a89db742">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails autoloop-blue-team-for-the-win: development" uuid="3be8ff0b-5b7a-4dd3-b3d1-2619d466d0a1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

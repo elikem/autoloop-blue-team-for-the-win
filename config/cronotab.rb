@@ -1,0 +1,1 @@
+Crono.perform(MilestoneCheckJob).with_options(truncate_log: 500).every 15.minutes
